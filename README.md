@@ -1,5 +1,5 @@
 # Twitter-SNLP
-##School Assignment
+## School Assignment
 
 
 ### Task Description
