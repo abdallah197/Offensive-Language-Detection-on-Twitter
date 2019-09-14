@@ -42,7 +42,7 @@ very same police . People are freaking stupid ...
 
 ###Baseline Classifier
 
-Naive bayes and SVM classifiers were used as models.
+Naive bayes and svm classifiers were used as models.
 
 to run the model please install using pip
 >pip install -r requirements.txt
