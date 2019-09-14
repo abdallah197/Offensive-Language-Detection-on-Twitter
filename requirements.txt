@@ -1,1 +1,6 @@
 twokenize
+numpy
+scikit-learn
+twikenizer
+emoji
+nltk
