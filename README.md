@@ -40,7 +40,7 @@ very same police . People are freaking stupid ...
 
 
 
-###Baseline Classifier
+### Baseline Classifier
 
 Naive bayes and svm classifiers were used as models.
 
